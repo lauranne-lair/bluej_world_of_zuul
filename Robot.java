@@ -7,7 +7,7 @@ import java.util.*;
  */
 public class Robot
 {
-    private int x;
+    private int x =0;
     private int y;
     private int direction;
     private String colorBody;
